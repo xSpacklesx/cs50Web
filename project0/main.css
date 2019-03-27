@@ -5,3 +5,7 @@
 .container-fluid {
   text-align: center;
 }
+
+#topBar {
+  background-color: cyan;
+}
