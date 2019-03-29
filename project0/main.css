@@ -1,5 +1,7 @@
 #Slamjam {
-  float:right;
+
+  outline-style: dotted;
+  outline-color: green;
 }
 
 .container-fluid {
@@ -8,4 +10,9 @@
 
 #topBar {
   background-color: cyan;
+  text-align: center;
+}
+
+body {
+  background-color: black;
 }
