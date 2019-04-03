@@ -1,12 +1,10 @@
 #Slamjam {
-
+  height: auto;
   outline-style: dotted;
   outline-color: green;
 }
 
-.container-fluid {
-  text-align: center;
-}
+
 
 #topBar {
   background-color: cyan;
