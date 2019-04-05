@@ -1,7 +1,10 @@
 #Slamjam {
-  height: auto;
+  height: 25vh;
   outline-style: dotted;
   outline-color: green;
+  position: fixed;
+  bottom: 0;
+
 }
 
 
