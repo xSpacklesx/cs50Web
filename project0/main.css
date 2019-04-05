@@ -16,15 +16,14 @@ a:link, a:visited {
 }
 
 
-
 #topBar {
   background-color: cyan;
   text-align: center;
 }
 
 #fullscreen-frame{
-  height: "1200";
-  width: "1800";
+  height: 1200;
+  width: 1800;
 }
 
 body {
