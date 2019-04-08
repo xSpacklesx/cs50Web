@@ -11,11 +11,15 @@
   text-align: center;
 }
 
-#fullscreen-frame{
+#fullscreen-frame {
   height: 1200;
   width: 1800;
 }
 
 body {
   background-color: black;
+}
+
+a {
+  color:darkgreen;
 }
