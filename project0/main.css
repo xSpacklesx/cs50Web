@@ -2,8 +2,7 @@
   height: 25vh;
   outline-style: dotted;
   outline-color: green;
-  position: fixed;
-  bottom: 0;
+  margin: 25px;
 }
 
 #topBar {
@@ -17,7 +16,8 @@
 }
 
 body {
-  background-color: black;
+  background-image: url("E:\hSpack\Web\cs50Web\project0\images\bg3.png");
+  background-repeat: repeat-y;
 }
 
 a {
