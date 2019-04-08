@@ -16,10 +16,13 @@
 }
 
 body {
-  background-image: url("E:\hSpack\Web\cs50Web\project0\images\bg3.png");
-  background-repeat: repeat-y;
+  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/bg3.png?raw=true");
 }
 
 a {
   color:darkgreen;
+}
+
+#gamebg {
+  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/bg2.png?raw=true");
 }
