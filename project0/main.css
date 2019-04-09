@@ -26,3 +26,18 @@ a {
 #gamebg {
   background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/bg2.png?raw=true");
 }
+
+#zengif1{
+  height: 10vh;
+}
+
+#mechgif1{
+  height: 10vh;
+}
+
+#splash{
+  color: white;
+  height: 10vh;
+  text-align: center;
+  font-size: 5vh;
+}
