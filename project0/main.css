@@ -3,7 +3,7 @@
   width: 95%;
   outline-style: dotted;
   outline-color: green;
-  margin: 25px;
+  margin-bottom: 5px;
 }
 
 #topBar{
@@ -45,10 +45,16 @@ a{
 
 #stream{
   width: 100%;
-  height: 35vh;
+
 }
 
 #weeksongtxt{
  color: lightgrey;
 
+}
+
+#footer{
+  text-align: center;
+  font-size: 8px;
+  color: darkgrey;
 }
