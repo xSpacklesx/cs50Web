@@ -55,6 +55,10 @@ a{
 
 #footer{
   text-align: center;
-  font-size: 8px;
+  font-size: 10px;
   color: darkgrey;
+}
+
+#tweets{
+  height: 57vh;
 }
