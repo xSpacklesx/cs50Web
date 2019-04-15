@@ -63,3 +63,7 @@ a{
 #newsbg{
   background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/idpdbg.png?raw=true");
 }
+
+#list{
+  color: grey;
+}
