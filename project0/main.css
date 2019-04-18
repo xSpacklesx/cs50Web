@@ -68,10 +68,17 @@ a{
   color: grey;
 }
 
-.p{
+p{
   color: grey;
 }
 
 div > ul{
   color: lightgrey;
+
+#yv{
+  height: 10vh;
+}
+
+#sp{
+  height: 10vh;
 }
