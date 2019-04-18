@@ -67,3 +67,11 @@ a{
 #list{
   color: grey;
 }
+
+.p{
+  color: grey;
+}
+
+div > ul{
+  color: lightgrey;
+}
