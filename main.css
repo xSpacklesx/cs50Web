@@ -18,7 +18,7 @@
 }
 
 body{
-  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/bg3.png?raw=true");
+  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/images/bg3.png?raw=true");
 }
 
 a{
@@ -26,7 +26,7 @@ a{
 }
 
 #gamebg{
-  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/bg2.png?raw=true");
+  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/images/bg2.png?raw=true");
 }
 
 #zengif1{
@@ -61,7 +61,7 @@ a{
 }
 
 #newsbg{
-  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/project0/images/idpdbg.png?raw=true");
+  background-image: url("https://github.com/xSpacklesx/cs50Web/blob/master/images/idpdbg.png?raw=true");
 }
 
 #list{
